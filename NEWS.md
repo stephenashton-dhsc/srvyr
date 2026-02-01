@@ -1,6 +1,7 @@
 # srvyr 1.3.1
 * `interact()` now can be used programmatically (#187, thanks @larmarange).
 * `cascade()` now puts the filled value last for character values (#189, thanks @szimmer).
+* Argument `.by` in `mutate()` now accepts multiple arguments (#193, thanks @stephenashton-dhsc)
 
 # srvyr 1.3.0
 * `as_survey_rep()` now has an argument `degf`, corresponding to the same argument in the survey function `svrepdesign()`. This argument can be useful for large data sets, since specifying a value for `degf` avoids a calculation which can be slow for very large data sets, (#171, @bschneidr).
