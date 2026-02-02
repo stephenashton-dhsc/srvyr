@@ -227,20 +227,6 @@ issue](https://github.com/gergness/srvyr/issues/127)!
 
 ## What people are saying about srvyr
 
-> minimal changes to my \#r \#dplyr script to incorporate survey
-> weights, thanks to the amazing \#srvyr and \#survey packages. Thanks
-> to @gregfreedman & @tslumley. Integrates soooo nicely into tidyverse
->
-> –<cite>Brian Guay ([@BrianMGuay on Jun 16,
-> 2021](https://twitter.com/brianmguay/status/1405224564196622338))</cite>
-
-> Spending my afternoon using `srvyr` for tidy analysis of weighted
-> survey data in \#rstats and it’s so elegant. Vignette here:
-> <https://CRAN.R-project.org/package=srvyr/vignettes/srvyr-vs-survey.html>
->
-> –<cite>Chris Skovron ([@cskovron on Nov 20,
-> 2018](https://twitter.com/cskovron/status/1065015904784842752))</cite>
-
 > 1.  Yay!
 >
 > –<cite>Thomas Lumley, [in the Biased and Inefficient
@@ -257,5 +243,5 @@ as all participants are required to abide by its terms.
 
 If you’re unfamiliar with contributing to an R package, I recommend the
 guides provided by Rstudio’s tidyverse team, such as Jim Hester’s [blog
-post](https://www.tidyverse.org/blog/2017/08/contributing/) or Hadley
+post](https://tidyverse.org/blog/2017/08/contributing/) or Hadley
 Wickham’s [R packages book](https://r-pkgs.org/).
